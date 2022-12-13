@@ -1,6 +1,9 @@
 # Projeto Alura Books
 
 Este é um projeto do curso de React da alura, onde fiz um site de livros, o "Alura Books".
+
+![AluraBooks](https://images2.imgbox.com/bf/f3/y63NCgY5_o.png)
+
 Este é o projeto inicial onde aprendi a fazer meu primeiro site em react.
 
 ## Tecnologias
